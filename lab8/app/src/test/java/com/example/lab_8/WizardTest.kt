@@ -4,7 +4,7 @@ package com.example.lab_8
 import org.junit.Assert.assertEquals
 import org.junit.Before
 import org.junit.Test
-
+/* whatever */
 class WizardTest {
     private lateinit var evilWizard: Wizard
 
